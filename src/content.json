@@ -1,0 +1,32 @@
+{
+  "homePageIntroduction": "Hi there, I am",
+  "fullName": "Mihret Getachew",
+  "homePageLabel": "Software Engineer",
+  "homePageDescription": "Software developer with 3 years of JavaScript/TypeScript experience, specializing in software solutions and RESTful APIs. Excel in team collaborations, committed to delivering high-quality code. Demonstrates rapid adaptability in dynamic development settings. Focused on continuous personal and professional growth, ensuring readiness for evolving technological challenges.",
+  "aboutPageContent": "I am a highly motivated, detail-oriented, tech-savvy, and organized engineer, I thrive in fast-paced environments and excel at meeting tight deadlines. My commitment to producing high-quality work is reflected in my meticulous approach to coding and problem-solving. I am not just a solitary developer; I am also a passionate team player. My strong communication skills enable me to collaborate effectively with cross-functional teams. I am dedicated to contributing to a company's success. With a solid educational foundation, experience and a strong work ethic, I am excited to embark on new challenges and make meaningful contributions as a full-stack developer.",
+  "aboutPageTimeline": [
+    {
+      "title": "Jersuma Trading P.L.C",
+      "timeline": "Full Stack Web Developer (Jun 2019 – Nov 2021)",
+      "description": "Played a pivotal role in developing various web applications, managing both front-end and back-end elements, including the design of RESTful APIs and user-friendly interfaces using React and Angular. Engaged in rigorous code reviews and testing with tools like Jest and Cypress, maintaining high-quality standards"
+    },
+    {
+      "title": "Jersuma Trading P.L.C",
+      "timeline": "Fronted Web Developer (Oct 2018 – Jun 2019)",
+      "description": "Developed responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React, and Angular, with state management through Redux and Context API, focusing on performance optimizations.Employed modern development tools such as Git and Agile methodologies, and integrated design trends using Material UI and testing frameworks like Cypress to ensure high-quality, bug-free outputs."
+    },
+    {
+      "title": "Jersuma Trading P.L.C",
+      "timeline": "Junior Web Developer Aug 2018 – Oct 2018",
+      "description": "Developed and maintained dynamic websites and web applications, ensuring cross-browser compatibility and optimal responsiveness across devices using HTML, CSS, JavaScript, and libraries like jQuery. Collaborated closely with design teams to translate wireframes into functional web pages"
+    },
+
+    {
+      "title": "Maharishi International University",
+      "timeline": "Masters in Software Development (M.S.D)",
+      "description": "Completed my higher education at Maharishi International University. Took important courses like Object Oriented Programming, Server Side Programming, Web Application Development I, Web Application Development II and Web Application Development III."
+    }
+  ],
+  "location": "Fairfield, Iowa, USA",
+  "email": "mihret.a.getachew@gmail.com"
+}

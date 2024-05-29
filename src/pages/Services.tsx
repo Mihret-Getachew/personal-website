@@ -31,7 +31,7 @@ function Services() {
               </section>
               <section>
                 <div>React.js / Next.js</div>
-                <div>Angular.js</div>
+                <div>Angular</div>
                 <div>WordPress</div>
               </section>
             </div>
@@ -84,6 +84,7 @@ function Services() {
             </p>
             <div className={servicesStyle.stacks__section}>
               <section>
+                <div>React Native</div>
                 <div>Flutter</div>
                 <div>Dart</div>
               </section>
